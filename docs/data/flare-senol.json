@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "name": "Commentaires"
+  },
+  {
+    "id": 2,
+    "name": "idcpN1",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "idcsN1",
+    "parent": 2
+  },
+  {
+    "id": 4,
+    "name": "idscN1",
+    "parent": 3,
+    "size": 3938
+  },
+  {
+    "id": 5,
+    "name": "idscN2",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "idscN3",
+    "parent": 3,
+    "size": 6714
+  },
+  {
+    "id": 7,
+    "name": "idscN4",
+    "parent": 3,
+    "size": 743
+  },
+  {
+    "id": 8,
+    "name": "idcsN2",
+    "parent": 2
+  },
+  {
+    "id": 9,
+    "name": "idscN5",
+    "parent": 8,
+    "size": 3534
+  },
+  {
+    "id": 10,
+    "name": "idscN6",
+    "parent": 8,
+    "size": 5731
+  },
+  {
+    "id": 11,
+    "name": "idscN7",
+    "parent": 8,
+    "size": 7840
+  },
+  {
+    "id": 12,
+    "name": "idscN8",
+    "parent": 8,
+    "size": 5914
+  },
+  {
+    "id": 13,
+    "name": "idscN9",
+    "parent": 8,
+    "size": 3416
+  },
+  {
+    "id": 14,
+    "name": "idcsN3",
+    "parent": 2
+  },
+  {
+    "id": 15,
+    "name": "idscN9",
+    "parent": 14,
+    "size": 7074
+  },
+  {
+    "id": 16,
+    "name": "idcpN2",
+    "parent": 1
+  },
+  {
+    "id": 17,
+    "name": "idcsN4",
+    "parent": 16,
+    "size": 17010
+  },
+  {
+    "id": 18,
+    "name": "idcsN5",
+    "parent": 16,
+    "size": 5842
+  },
+  {
+    "id": 19,
+    "name": "idcsN6",
+    "parent": 16
+  },
+  {
+    "id": 20,
+    "name": "idscN10",
+    "parent": 19,
+    "size": 1983
+  },
+  {
+    "id": 21,
+    "name": "idscN10",
+    "parent": 19,
+    "size": 2047
+  },
+  {
+    "id": 22,
+    "name": "idscN11",
+    "parent": 19,
+    "size": 1375
+  },
+  {
+    "id": 23,
+    "name": "idscN12",
+    "parent": 19,
+    "size": 8746
+  },
+  {
+    "id": 24,
+    "name": "idscN13",
+    "parent": 19,
+    "size": 2202
+  },
+  {
+    "id": 25,
+    "name": "idscN14",
+    "parent": 19,
+    "size": 1382
+  },
+  {
+    "id": 26,
+    "name": "idscN15",
+    "parent": 19,
+    "size": 1629
+  },
+  {
+    "id": 27,
+    "name": "idscN20",
+    "parent": 19,
+    "size": 1675
+  },
+  {
+    "id": 28,
+    "name": "idscN21",
+    "parent": 19,
+    "size": 2042
+  },
+  {
+    "id": 29,
+    "name": "idcsN7",
+    "parent": 16,
+    "size": 1041
+  },
+  {
+    "id": 30,
+    "name": "idcsN8",
+    "parent": 16,
+    "size": 5176
+  },
+  {
+    "id": 31,
+    "name": "idcsN9",
+    "parent": 16,
+    "size": 449
+  },
+  {
+    "id": 32,
+    "name": "idcsN10",
+    "parent": 16,
+    "size": 5593
+  },
+  {
+    "id": 33,
+    "name": "idcsN11",
+    "parent": 16,
+    "size": 5534
+  },
+  {
+    "id": 34,
+    "name": "idcsN12",
+    "parent": 16,
+    "size": 9201
+  },
+  {
+    "id": 35,
+    "name": "idcsN13",
+    "parent": 16,
+    "size": 19975
+  },
+  {
+    "id": 36,
+    "name": "idcsN14",
+    "parent": 16,
+    "size": 1116
+  },
+  {
+    "id": 37,
+    "name": "idcsN15",
+    "parent": 16,
+    "size": 6006
+  },
+  {
+    "id": 38,
+    "name": "idcpN3",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "name": "idcsN16",
+    "parent": 38
+  },
+  {
+    "id": 40,
+    "name": "idscN22",
+    "parent": 39,
+    "size": 721
+  },
+  {
+    "id": 41,
+    "name": "idscN23",
+    "parent": 39,
+    "size": 4294
+  },
+  {
+    "id": 42,
+    "name": "idscN24",
+    "parent": 39,
+    "size": 9800
+  },
+  {
+    "id": 43,
+    "name": "idscN25",
+    "parent": 39,
+    "size": 1314
+  },
+  {
+    "id": 44,
+    "name": "idscN26",
+    "parent": 39,
+    "size": 2220
+  },
+  {
+    "id": 45,
+    "name": "idcsN17",
+    "parent": 38,
+    "size": 1759
+  },
+  {
+    "id": 46,
+    "name": "idcsN18",
+    "parent": 38,
+    "size": 2165
+  },
+  {
+    "id": 47,
+    "name": "idcsN19",
+    "parent": 38,
+    "size": 586
+  },
+  {
+    "id": 48,
+    "name": "idcsN20",
+    "parent": 38,
+    "size": 3331
+  },
+  {
+    "id": 49,
+    "name": "idcsN20",
+    "parent": 38,
+    "size": 772
+  },
+  {
+    "id": 50,
+    "name": "idcsN21",
+    "parent": 38,
+    "size": 3322
+  }
+]
